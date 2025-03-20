@@ -1,0 +1,46 @@
+/* Cores Personalizadas para o Cabeçalho */
+.custom-header {
+    background: rgb(45,55,72);
+    background: linear-gradient(0deg, rgba(45,55,72,1) 22%, rgba(40,44,52,1) 70%);
+}
+
+/* Cores para a Seção de Introdução */
+#inicio {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Cores para a Seção de História */
+#historia {
+    background-color: #2d3748; 
+    color: #edf2f7; 
+}
+
+/* Cores para as Características */
+#caracteristicas {
+    background-color: #ffffff; 
+    color: #333333; 
+}
+
+/* Cores para a Seção de Curiosidades */
+#curiosidades {
+    background-color: #2d3748; 
+    color: #edf2f7; 
+}
+
+/* Cores do Rodapé */
+footer {
+    background-color: #3182ce; 
+    color: white; 
+}
+
+/* Estilo de Links no Navegador */
+a {
+    color: #3182ce; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: #63b3ed; 
+}
+
